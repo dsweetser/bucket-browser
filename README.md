@@ -1,9 +1,9 @@
 # FEEDbucket
 
-DEPLOYED FRONT END: https://squad-sol.github.io/bucket-browser/
+DEPLOYED FRONT END: https://dsweetser.github.io/bucket-browser/
 
 
-BACKEND REPO: https://github.com/Squad-SOL/bucket-api
+BACKEND REPO: https://github.com/dsweetser/bucket-api
 
 
 HEROKU: https://fast-atoll-26007.herokuapp.com/
@@ -14,7 +14,7 @@ Created by @cathyob, @dsweetser, and @newayliu1 for General Assembly Boston Web 
 ## ABOUT
 Thank you for visiting our front end repo! This app was built as part of the course's team project.
 
-We were assigned to a team and given a prompt. Ours was to create a bucket list for people to be able to save, see, edit, and delete items from their list utlizing a location based 3rd party API.
+We were assigned to a team and given a prompt to create a bucket list for people to be able to save, see, edit, and delete items from their list utlizing a location based 3rd party API.
 
 After getting to know each other we decided to theme our project around a mutual interest - FOOD! Throughout this course we noticed that our class would constantly talk to each other about cool restaurants people should try, for lunch together or otherwise.
 
@@ -59,6 +59,6 @@ Also, you will need a backend server. We used Heroku. You can create your own an
 ![alt text](https://raw.githubusercontent.com/Squad-SOL/bucket-browser/master/Wireframe.jpg "Wireframe")
 
 # THANK YOU!
-Don't forget to try it out here: https://squad-sol.github.io/bucket-browser/
+Don't forget to try it out here: https://dsweetser.github.io/bucket-browser/
 
 Thank you very much for checking out our app! Please let us know if you have any questions!
